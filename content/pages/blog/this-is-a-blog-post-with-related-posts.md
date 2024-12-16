@@ -3,7 +3,7 @@ type: PostLayout
 title: >-
   Second Attempt V2 Self Security and Functionality Audit Report Prior to
   External Audit Process
-date: '2022-10-10'
+date: '2023-10-10'
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
