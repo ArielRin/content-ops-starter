@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: This is a blog post with a CTA
+title: >-
+  Second Attempt V2 Self Security and Functionality Audit Report Prior to
+  External Audit Process
 date: '2022-10-10'
 author: content/data/person1.json
 excerpt: >-
